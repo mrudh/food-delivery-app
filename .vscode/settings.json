@@ -1,0 +1,6 @@
+{
+    "npm.exclude": "",
+    "files.associations": {
+        "*.css": "tailwindcss"
+      }
+}
